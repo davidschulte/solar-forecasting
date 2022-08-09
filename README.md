@@ -21,4 +21,4 @@ Then, we get rid of the strong seasonality in the data by applying a linear regr
 Lastly, we fit an ARMA model to the residuals to model the sort-term variability.
 ![ARMA model fit for the year 2012](armafit1year.png)
 
-You can read the details in the project's [Jupyter notebook](stf_project.ipynb) or the [Course paper](Forecasting of Solar Power Generation.pdf)
+You can read the details in the project's [Jupyter notebook](stf_project.ipynb) or the [Course paper](<Forecasting of Solar Power Generation.pdf>)
